@@ -19,12 +19,20 @@ C:\Sankar\gitCourse>git remote -h
 
 ################################################################################################################################################
 
+C:\Sankar\gitCourse>git add Git-commands.txt --> Adds the mentioned file that has been changed to the staging area
+C:\Sankar\gitCourse>git commit -m "Sankar documenting all git commands from the tutorial" --> 
+A commit is a set of saved repository changes. 
+A commit is never lost.
+Each commit has a unique identification hashkey
+Creates a new commit with the mentioned comments
 
 ################################################################################################################################################
 
+C:\Sankar\gitCourse>git log --> This command shows the list of the commits in our project.
 
 ################################################################################################################################################
 
+C:\Sankar\gitCourse>git status --> We will see the difference between the stage files that appear under the heading changes to be committed and the unstage files that appear under the heading untracked files.
 
 ################################################################################################################################################
 
