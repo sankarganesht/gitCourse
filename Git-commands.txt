@@ -36,6 +36,7 @@ C:\Sankar\gitCourse>git status --> We will see the difference between the stage 
 
 ################################################################################################################################################
 
+C:\Sankar\gitCourse>git reset Git-commands.txt --> Used to remove the files from staging and mark it as untracked.
 
 ################################################################################################################################################
 
